@@ -17,3 +17,12 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+#Atom FTP ignore files
+.ftpconfig
+.ftpignore
+*.ftpconfig
+*.ftpignore
+.ftpconfig.cson
+id_rsa
+.DS_Store
+.git
