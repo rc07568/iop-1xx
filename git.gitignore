@@ -28,8 +28,6 @@ dw_php_codehinting.config
 #Atom FTP ignore files
 .ftpconfig
 .ftpignore
-*.ftpconfig
-*.ftpignore
 .ftpconfig.cson
 id_rsa
 .DS_Store
