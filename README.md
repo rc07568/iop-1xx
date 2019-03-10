@@ -9,3 +9,6 @@ ver 1.0.0.0
 
 inside out version 100-0
 -added header resize functionality
+
+inside out version 100-1
+-added jquery, tether and popper
