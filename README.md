@@ -15,3 +15,9 @@ inside out version 100-1
 
 inside out version 100-2 bugfix
 -fixed footer by adjusting bootstrap col width and wrapped inside bootstrap row
+
+inside out version 101-0
+-add fist level of navigation
+-created assets/js/app.js
+-created assets/data/menu.json
+-moved header resize js to app.js
