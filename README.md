@@ -12,3 +12,6 @@ inside out version 100-0
 
 inside out version 100-1
 -added jquery, tether and popper
+
+inside out version 100-2 bugfix
+-fixed footer by adjusting bootstrap col width and wrapped inside bootstrap row
