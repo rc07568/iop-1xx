@@ -21,3 +21,10 @@ inside out version 101-0
 -created assets/js/app.js
 -created assets/data/menu.json
 -moved header resize js to app.js
+
+inside out version 102-0
+-completed menu builder function in app.js
+-completed nav through menu builder with recurcsion
+
+inside out version 102-1
+-completed css for navigation
