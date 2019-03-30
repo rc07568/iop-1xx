@@ -16,7 +16,7 @@ function init() {
   });
 
   $.ajax({
-    method: "Get",
+    method: 'GET',
     url: 'assets/data/menu.json',
     dataType: 'json',
     success: function(data) {
@@ -41,7 +41,7 @@ function menuBuilder(obj) {
 
     theMenu = theMenu + '<ul>';
 
-    obj.forEach(function(item) {
+    obj.forEach(function (item) {
 
       theMenu = theMenu + '<li> <a href="#">' + item.MenuName + '</a>';
 
@@ -52,10 +52,10 @@ function menuBuilder(obj) {
 
       }
 
-      theMenu = theMenu + '<li>';
+      theMenu = theMenu + '</li>';
     });
 
-    theMenu = theMenu + '<ul>';
+    theMenu = theMenu + '</ul>';
 
   } else {
     console.log('no data');
