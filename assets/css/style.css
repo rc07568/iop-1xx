@@ -76,7 +76,7 @@ nav ul li:hover>ul {
 }
 
 #loaderDiv {
-  <div>"Thank you for your Time"<div>
+  
     background: url("https://90northgroup.com/wp-content/uploads/2017/02/cogs-1.gif") no-repeat center center fixed;
     position: fixed;
     z-index: 9999;
