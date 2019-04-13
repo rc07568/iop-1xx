@@ -28,3 +28,7 @@ inside out version 102-0
 
 inside out version 102-1
 -completed css for navigation
+
+inside out version 103.0
+-added loader to the index.html and dynamiclly display it once it has been loaded.
+-As soon as the page has completed in full we have removed the div and allow for page interaction
